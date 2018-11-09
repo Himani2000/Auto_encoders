@@ -1,1 +1,8 @@
+I hace implemented the stack_autoencoder using the concept that the weights<br>
+trained for the enoding layer would be the transpose of the decoding layer or vice versa<br> 
+I have implemented this using tensorflow and have done certain tunning <br>
+
+I will upload the detail  theory soon <br>
+anyone willing to contribute to the code is welcome.<br>
+
 
